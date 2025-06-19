@@ -1,5 +1,7 @@
 # Hidden-Spots
-Steps to run it
+
+Steps To Run It:
+
 #SERVER
 cd server
 npm install express mongoose cors dotenv multer cloudinary multer-storage-cloudinary
